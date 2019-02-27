@@ -17,3 +17,9 @@ Run
 ```docker-compose kill```
 
 or use `Ctrl+C`.
+
+# Uninstall
+
+Run
+
+```docker-compose down```
