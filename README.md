@@ -1,4 +1,4 @@
-This program is a starting stack to use WordPress using Docker without other necessary installations.
+This program is a starting stack to use WordPress with Docker without other necessary installations.
 
 # Installation
 
