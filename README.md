@@ -25,3 +25,9 @@ or use `Ctrl+C`.
 Run
 
 ```docker-compose down```
+
+and
+
+```docker volume rm wordpress-docker-stack_db_data```
+
+to remove the database.
