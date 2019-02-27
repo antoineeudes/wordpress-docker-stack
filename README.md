@@ -10,6 +10,8 @@ Run
 
 ```docker-compose up```
 
+and browse http://localhost:8000/wp-admin/.
+
 # Kill the server
 
 Run 
